@@ -1,0 +1,31 @@
+{
+    "projects" : [
+        {
+         "id" : 1,
+          "name" : "IronManGame with JS",
+          "description" : "An simple game made with JavaScript, HTML and CSS oriented to objects usign the canvas html tools and the animations possibilities with css",
+          "picture" : "",
+          "technologies" : [
+             "JavaScript",
+             "HTML",
+             "CSS"
+          ],
+          "link" : "https://github.com/MateoAmado/IronManGame"
+          
+        },
+        {
+            "id": 2,
+            "name" : "Tundra Sports",
+            "description" : "A simple shop web made with Angular, the web allows you to select the stock, size and colors if it is possible and add to your own cart",
+            "picture" : "",
+            "technologies" : [
+                "TypeScript",
+                "HTML",
+                "SCSS",
+                "Angular"
+            ],
+            "link" : "https://stackblitz.com/~/github.com/MateoAmado/Tundra_Angular?file=src/app/carrito/carrito.component.spec.ts&view=editor"
+        }
+
+    ]
+}
