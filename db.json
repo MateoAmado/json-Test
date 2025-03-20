@@ -4,7 +4,7 @@
          "id" : 1,
           "name" : "IronManGame with JS",
           "description" : "An simple game made with JavaScript, HTML and CSS oriented to objects usign the canvas html tools and the animations possibilities with css",
-          "picture" : "",
+          "picture" : "https://github.com/MateoAmado/json-Test/blob/main/IronMan.jpg.png?raw=true",
           "technologies" : [
              "JavaScript",
              "HTML",
@@ -17,7 +17,7 @@
             "id": 2,
             "name" : "Tundra Sports",
             "description" : "A simple shop web made with Angular, the web allows you to select the stock, size and colors if it is possible and add to your own cart",
-            "picture" : "",
+            "picture" : "https://github.com/MateoAmado/json-Test/blob/main/Tundra.jpg.png?raw=true",
             "technologies" : [
                 "TypeScript",
                 "HTML",
